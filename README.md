@@ -1,4 +1,4 @@
-# 人生如诗
+# 生活诗社
 
 > I went to the woods because I wished to live deliberately,
 >
