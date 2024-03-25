@@ -1,4 +1,4 @@
-# Live Poets Society
+# 人生如诗
 
 > I went to the woods because I wished to live deliberately,
 >
