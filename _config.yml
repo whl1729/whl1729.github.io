@@ -1,10 +1,8 @@
 title: 生活诗社
-author:
-  name: 伍华龙
-  email: "wuhl6@sysu2.edu.cn"
+author: 伍华龙
 
 description: >
-  这是伍华龙的个人博客。
+  书写是更好的思考
 
 #remote_theme: jekyll/minima
 theme: minima
